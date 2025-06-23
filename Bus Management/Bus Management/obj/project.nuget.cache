@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JeMht5R0dsc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gururaj.x\\source\\repos\\Bus Management\\Bus Management\\Bus Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gururaj.x\\.nuget\\packages\\litedb\\5.0.0\\litedb.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiteDB' 5.0.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-3x49-g6rc-c284",
+      "libraryId": "LiteDB",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

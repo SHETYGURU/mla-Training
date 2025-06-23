@@ -1,0 +1,7 @@
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\bin\Debug\Bus Management.exe.config
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\bin\Debug\Bus Management.exe
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\bin\Debug\Bus Management.pdb
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\obj\Debug\Bus Management.csproj.AssemblyReference.cache
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\obj\Debug\Bus Management.csproj.CoreCompileInputs.cache
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\obj\Debug\Bus Management.exe
+C:\Users\gururaj.x\source\repos\Bus Management\Bus Management\obj\Debug\Bus Management.pdb
